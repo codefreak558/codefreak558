@@ -16,7 +16,7 @@
 
 
 <h2 align="center">About Me</h2>
-<p align="center">Timezone: Africa/Johannesburg</p>
+<p align="center"><b>Timezone: Africa/Johannesburg<b/></p>
 
 I host my own website for hosting services in South Africa
 
