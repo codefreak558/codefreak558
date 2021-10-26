@@ -40,6 +40,7 @@ I host my own website for hosting services in South Africa
 
 -------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codefreak558&show_icons=true&theme=dracula&locale=en&layout=compact" alt="codefreak558" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codefreak558&show_icons=true&theme=dracula&locale=en" alt="codefreak558" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codefreak558&show_icons=true&theme=dracula&locale=en" alt="codefreak558" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codefreak558&show_icons=true&theme=dracula&locale=en&layout=compact" alt="codefreak558" /></p>
