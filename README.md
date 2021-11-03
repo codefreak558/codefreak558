@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi there, I'm Aidan</b></h1>
 
 <p align="center">
+<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/aidan-taylor">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/codefreak6?label=Twitter&logo=Twitter&style=for-the-badge">
 </p>
 
