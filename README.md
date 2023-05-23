@@ -1,46 +1,108 @@
-<h1 align="center"><b>Hi there, I'm Aidan</b></h1>
+<!--
+<h2 align="center">
+  Welcome to Aidan's World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
 
+<!--
 <p align="center">
-<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/aidan-taylor">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/codefreak6?label=Twitter&logo=Twitter&style=for-the-badge">
+  <a href="https://github.com/codefreak558"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<p><b>Enthusiastic Web Developer since 2019 using PHP, HTML, Bootstrap and Javascript.</b></p>
-<br />
+ -->
 
-<h2 align="center">Currently learning 🖥️</h2>
-
-- PHP
-- HTML
-- JavaScript
+<a href="https://komarev.com/ghpvc/?username=codefreak558">
+  <img align="right" src="https://komarev.com/ghpvc/?username=codefreak558&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 
-<h2 align="center">About Me</h2>
-<p align="center"><b>Timezone: Africa/Johannesburg<b/></p>
+[![wakatime](https://wakatime.com/badge/user/6bf38a2a-37af-4431-85b2-5a0f68ed4436.svg)](https://wakatime.com/@6bf38a2a-37af-4431-85b2-5a0f68ed4436)
 
-I host my own website for hosting services in South Africa
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://codefreak558.com">Aidan Taylor</a></b>
+        </samp>
+</h3>
 
-💪 I am currently getting back into coding after a sometime of procastination.
-💬 Ask me anything related to my content. I am happy to help
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://dev.to/codefreak558" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codefreak558" height="30" width="40" /></a>
-<a href="https://twitter.com/codefreak6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codefreak6" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13277291/codefreak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13277291/codefreak" height="30" width="40" /></a>
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a coding enthusiast from <b>South Africa</b> 」
+    <br>
+    <br>
+  </samp>
 </p>
 
-
-
+<p align="center">
+ <a href="https://linkedin.com/in/aidan-taylor" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="codefreak558"/>
+ </a>
+ <a href="https://dev.to/codefreak558" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="codefreak558" />
+ </a>
+ <a href="https://twitter.com/codefreak558" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+</p>
 <br />
 
--------------
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: codefreak@darkblue.co.za<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/codefreak558/codefreak558/issues)
 
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codefreak558&show_icons=true&theme=dracula&locale=en" alt="codefreak558" /></p>
+<br/>
+<br/>
+<br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codefreak558&show_icons=true&theme=dracula&locale=en&layout=compact" alt="codefreak558" /></p>
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/codefreak558?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/codefreak558">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codefreak558&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/codefreak558">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codefreak558&theme=radical" alt="Aidan's's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/codefreak558"><img alt="Aidan's's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=codefreak558&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/codefreak558"><img alt="Aidan's's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=codefreak558&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
