@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://codefreak558.com">Aidan Taylor</a></b>
+                <b><a target="_blank" href="https://codefreak558.com">codefreak</a></b>
         </samp>
 </h3>
 
